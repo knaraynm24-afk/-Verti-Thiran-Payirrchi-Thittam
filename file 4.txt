@@ -1,0 +1,13 @@
+Phase 4: Create Transform Map
+Click Create Transform Map button
+Name: Sample Spreadsheet Import
+Source Table: Employee Import (auto)
+Target Table: Employee Test
+
+Steps:
+- Auto Map Matching Fields
+- Mapping Assist -> Map Source & Target
+- Save
+- Click Transform
+
+Result: All records imported successfully.

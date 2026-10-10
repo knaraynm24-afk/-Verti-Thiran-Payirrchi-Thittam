@@ -1,0 +1,10 @@
+Phase 3: Load Data
+All Menus > System Import Sets > Load Data
+- Import set table: Existing -> Employee Import
+- Source: File -> Choose Sample Spreadsheet.xlsx
+- Sheet number: 1
+- Header row: 1
+- Submit
+
+Result: State = Completed, Success
+Transform history shows Inserted / Skipped.

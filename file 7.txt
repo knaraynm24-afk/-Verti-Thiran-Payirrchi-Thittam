@@ -1,0 +1,14 @@
+Phase 7: Insert New Data
+New Excel Data:
+- SB-0001 | Raviteja Updated | test18@gmail.com | IT | Hyderabad (Same ID, Email changed)
+- SB-0004 | Ajay | (Name changed from Ajay Kumar)
+- SB-0007 | Karthik | New ID
+- SB-0008 | Meena | New ID
+
+Steps: Load Data > Submit > Transform
+
+Result:
+2 Inserted (new IDs)
+2 Updated (same IDs with new values)
+
+Open Employee Test table and verify.

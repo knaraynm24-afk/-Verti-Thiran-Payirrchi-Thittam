@@ -1,0 +1,25 @@
+Reports:
+
+Report 1: Employees by Department
+- Create New Report
+- Name: Employees by Department
+- Table: Employee Test
+- Type: Pie Chart
+- Group by: Department
+- Aggregation: Count
+- Run and Save
+
+Report 2: Employees by Location
+- Name: Employees by Location
+- Table: Employee Test
+- Type: Bar Chart
+- Group by: Location
+- Aggregation: Count
+- Run and Save
+
+Report 3: Employee List Report
+- Name: Employee List Report
+- Table: Employee Test
+- Type: List
+- Columns: Employee ID, Employee Name, Email, Department, Location
+- Run and Save

@@ -1,0 +1,14 @@
+Phase 2: Create Custom Table
+Navigation: Tables > Create New
+Label: Employee Test
+Name: u_employee_test
+
+Add Fields (String type):
+- Employee ID
+- Employee Name
+- Email
+- Department
+- Location
+
+Configure Form Layout and List Columns.
+Result: Custom table created.s

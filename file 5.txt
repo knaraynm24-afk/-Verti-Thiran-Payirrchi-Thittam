@@ -1,0 +1,6 @@
+Phase 5: Test Import
+- Open Employee Test table
+- Verify 6 records inserted
+- Check Transform History
+
+Result: Data visible in target table.

@@ -1,0 +1,13 @@
+Phase 6: Enable Coalesce to Avoid Duplicates
+Problem: Same data imported twice = duplicate
+
+Steps:
+1. Open Transform Map > Sample Spreadsheet Import
+2. Related List > Field Maps
+3. Find Employee ID field
+4. Make Coalesce = True (was False)
+5. Save
+6. Upload same Excel again
+
+Result: 4 rows -> 0 Inserted, 0 Updated, 4 Ignored
+Duplicate prevented.

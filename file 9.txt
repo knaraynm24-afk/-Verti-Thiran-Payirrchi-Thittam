@@ -1,0 +1,26 @@
+Dashboard:
+
+Steps:
+- All Menus > PA Dashboards > Create Dashboard
+- Name: Employee Analytics Dashboards
+- Save
+- Enable Admin Overrides = True
+- Update
+
+Add Reports:
+- Open Reports > Edit > Share > Add to Dashboards
+- Select Employee Analytics Dashboards > Add
+- Do same for other 2 reports
+- View Dashboard
+
+Final Result:
+- 3 Reports added (Dept Pie, Location Bar, List)
+- Dashboard shows real-time visibility
+- Coalesce prevents duplicates
+- Import Sets working perfectly
+
+CONCLUSION:
+1. Project successfully implemented automated employee data management
+2. Coalesce on Employee ID prevents duplicates
+3. Reports and Dashboards provide monitoring and decision-making
+4. Dashboard improved with charts and graphs
